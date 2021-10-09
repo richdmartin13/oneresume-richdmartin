@@ -257,19 +257,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        title = "OneResume"
+        meta = "Digital Resume Platform"
+        tagline = "OneResume is a platform to host your resume online to bring the spotlight to you and your skills."
 
         [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-
-        [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        title = "Swiftech"
+        meta = "Tech Support & Web Development"
+        tagline = "Swiftech is a technical support company which specializes in remote support and hardware repair. The company also engages in web development for small businesses and nonprofits."
 
 
 
@@ -286,13 +281,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Papers"
         [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
-        [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
-
-        [[params.information.list]]
-        title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
+        details = "2021 · Multinational Corporations and Private Data"
 
 
 
@@ -306,16 +295,20 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/richdmartin13"
+        title = "richdmartin13"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
+        url = "//linkedin.com/in/richdmartin"
+        title = "richdmartin"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
+        url = "//twitter.com/richdmartin"
+        title = "@richdmartin"
+        [[params.social.list]]
+        icon = "fab fa-instagram-square"
+        url = "//instagram.com/richdmartin13"
+        title = "@richdmartin13"
 
 
 
