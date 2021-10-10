@@ -49,7 +49,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://richdmart.in"
-        text = "richdmart.in"
+        text = "Personal Site"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://swifte.ch"
+        text = "Swiftech"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://oneresume.us"
+        text = "OneResume"
 
 
 
