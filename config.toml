@@ -25,7 +25,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Richard Martin"
-        tagline = "Digital Nomad & Web Developer"
+        tagline = "Web Developer"
         avatar = "avatar.jpeg"
 
 
@@ -36,7 +36,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "Planet Earth"
+        location = "Location Independent"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
